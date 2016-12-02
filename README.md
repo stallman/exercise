@@ -7,7 +7,7 @@ Script works in Ubuntu 16.04 (tested on x86_64 platform).
 
 Usage: 
   ```sh
-  ./script.sh <rustversion> <parityversion>
+  ./script.sh rustversion parityversion
   ```
 where 
 
