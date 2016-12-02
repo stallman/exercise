@@ -11,7 +11,7 @@ Usage:
 where 
 
 <ul>
-<li><b>rustversion</b> is stable, beta or nightly<li/>
+<li><b>rustversion</b> is stable, beta or nightly</li>
 <li><b>parityversion</b> is stable, beta or master</li>
 <ul>
 
