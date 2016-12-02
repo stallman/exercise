@@ -7,6 +7,9 @@ Script works in Ubuntu 16.04 (tested on x86_64 platform).
 
 Usage: <br/>
 1. Clone all files <br/>
+  ```sh
+   git clone https://github.com/stallman/exercise
+  ```
 2. Run <br/>
   ```sh
   ./script.sh rustversion parityversion
