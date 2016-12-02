@@ -6,14 +6,18 @@ This script makes parity binaries in docker container.<br/>
 Script works in Ubuntu 16.04 (tested on x86_64 platform).
 
 Usage: <br/>
-1. Clone all files <br/>
+<ol>
+<li>Clone all files <br/>
   ```sh
    git clone https://github.com/stallman/exercise
   ```
-2. Run <br/>
+  </li>
+<li> Run <br/>
   ```sh
   ./script.sh rustversion parityversion
   ```
+</li>
+</ol>
 where 
 
 <ul>
