@@ -2,7 +2,8 @@
 
 Devops exercise
 
-This script makes parity binaries in Ubuntu 16.04 (tested on x86_64 platform)
+This script makes parity binaries in docker container.<br/>
+Script works in Ubuntu 16.04 (tested on x86_64 platform).
 
 Usage: 
   ```sh
