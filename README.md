@@ -8,7 +8,9 @@ Usage:
   ```sh
   ./script.sh <rustversion> <parityversion>
   ```
-where <rustversion> is stable, beta or nightly
-where <parityversion> is stable, beta or master
+where 
 
-The script provides a link to download at the end
+<b>rustversion</b> is stable, beta or nightly
+<b>parityversion</b> is stable, beta or master
+
+The script provides a link to download at the end.
